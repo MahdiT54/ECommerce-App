@@ -201,10 +201,7 @@ LANDING
 
 .header__img--wrapper {
   padding: 20px;
-
-  /* Added this after the tutorial to 
-  show it over the wave on larger screens */
-  z-index: 100;
+  z-index: 98;
 }
 
 .container {
